@@ -1,0 +1,96 @@
+.header1 {
+    text-align: center;
+}
+
+.balance-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.balance-wrapper h2 {
+    margin: 10px;
+}
+
+.balance-wrapper h3 {
+    margin:10px;
+}
+
+.delete-btn{
+    border-color: transparent;
+    background-color: none;
+    color: steelblue;
+}
+
+.shopping.cart {
+color: rgb(236, 95, 95);
+}
+
+.dollar {
+    color: rgb(51, 134, 51);
+}
+
+.ui.cards {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
+
+.balance {
+    display: flex;
+    justify-content: center;
+}
+
+.controlWidth-income.segment {
+    min-width: 300px;
+    background-color: rgb(188, 219, 188);
+    border-color: transparent;
+
+    margin: 0;
+}
+
+.formColor-income {
+    background-color: rgb(188, 219, 188);
+
+}
+
+.btnSubmit-income.submit {
+    width: 100%;
+    background-color: rgb(37, 146, 37);
+    color: white;
+}
+
+.controlWidth-expense.segment  {
+    /* width: 40%; */
+    min-width: 300px;
+    background-color: rgb(230, 192, 180);
+    border-color: transparent;
+margin: 0;
+}
+
+.formColor-expense .form {    
+    background-color: rgb(230, 192, 180);
+    margin: 0;
+    width: 100%;
+
+}
+
+.btnSubmit-expense.submit {
+    width: 100%;
+    background-color: rgb(233, 146, 112);
+    
+    color: white;
+}
+
+.form-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.ui.form {
+    margin: 0;
+}
+
+.delete-btn {
+    cursor: pointer;
+}
