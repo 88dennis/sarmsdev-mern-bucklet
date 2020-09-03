@@ -69,7 +69,7 @@ const AddTransaction = () => {
                      type="text"
                      name= "incomeText"
                      value={income.incomeText}
-                     placeholder="Add Income"
+                     placeholder="Note on income"
                      autoComplete="off"
                      onChange={onChangeIncome}
                      />
@@ -112,7 +112,7 @@ const AddTransaction = () => {
                      name="expenseText"
                      value={expense.expenseText}
 
-                     placeholder="Add Expense"
+                     placeholder="Note on expense"
                      autoComplete="off"
                      onChange={onChangeExpense}
 
