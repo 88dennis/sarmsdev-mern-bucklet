@@ -2,7 +2,7 @@
   "name": "bucklet",
   "version": "1.0.0",
   "engines": {
-    "node":"v11.12.0",
+    "node": "v11.12.0",
     "npm": "6.14.8"
   },
   "description": "",

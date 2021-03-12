@@ -18,7 +18,8 @@ function App() {
 
   return (
     <GlobalContextProvider>
-    <div className="ui container segment">
+      <div className="my_container">    
+        <div className="ui container segment">
       <div className="app-wrapper">
         {/* <Header /> */}
         <Balance />
@@ -31,6 +32,8 @@ function App() {
 
       </div>
     </div>
+    </div>
+
     </GlobalContextProvider>
   );
 }
